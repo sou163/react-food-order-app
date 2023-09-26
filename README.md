@@ -1,2 +1,2 @@
 # react-food-order-app
-A Food-Ordering App frontend created using React Hooks and Portals!
+A Food-Ordering App front-end created using React Hooks and Portals!
